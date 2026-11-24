@@ -1,0 +1,551 @@
+Order_ID,Customer_Name,Country,iPhone_Model,Storage,Color,Quantity,Price,Sale_Date,Payment_Method,City,Total_Sales,Average_Sales,Sales_Performance,Shipping_Method,Region,Customer_Rating
+1001,Customer_1,USA,iPhone 13,256GB,Purple,5,1817,01-05-2025,Debit Card,New York,9085,4944.53,Above Average,Same Day,Asia Pacific,3
+1002,Customer_2,Canada,iPhone 12,256GB,Blue,1,998,05-03-2025,PayPal,Toronto,998,4944.53,Below Average,Standard,Asia Pacific,4
+1003,Customer_3,Canada,iPhone 15 Pro Max,512GB,Black,5,876,25-01-2025,Credit Card,Los Angeles,4380,4944.53,Below Average,Same Day,Asia Pacific,3
+1004,Customer_4,USA,iPhone 15 Pro Max,512GB,Black,2,1290,24-03-2025,Debit Card,Chicago,2580,4944.53,Below Average,Same Day,North America,4
+1005,Customer_5,USA,iPhone 15,128GB,Blue,3,1092,01-02-2025,Debit Card,Vancouver,3276,4944.53,Below Average,Standard,Asia Pacific,4
+1006,Customer_6,UAE,iPhone 14 Pro,256GB,Red,5,1939,15-02-2025,Debit Card,Houston,9695,4944.53,Above Average,Standard,Asia Pacific,5
+1007,Customer_7,Germany,iPhone 14 Pro,512GB,Blue,1,1798,13-02-2025,Debit Card,Montreal,1798,4944.53,Below Average,Same Day,North America,4
+1008,Customer_8,UK,iPhone 15 Pro Max,128GB,Purple,3,1808,30-03-2025,Debit Card,San Francisco,5424,4944.53,Above Average,Express,Asia Pacific,5
+1009,Customer_9,UAE,iPhone 12,512GB,Purple,2,1381,06-03-2025,Debit Card,Seattle,2762,4944.53,Below Average,Same Day,North America,3
+1010,Customer_10,Pakistan,iPhone 14 Pro,128GB,Red,5,1670,25-02-2025,Debit Card,Boston,8350,4944.53,Above Average,Same Day,Europe,3
+1011,Customer_11,UK,iPhone 15 Pro Max,256GB,White,5,1857,28-01-2025,PayPal,New York,9285,4944.53,Above Average,Same Day,Asia Pacific,3
+1012,Customer_12,USA,iPhone 14,128GB,Black,3,1572,25-03-2025,Cash,Toronto,4716,4944.53,Below Average,Same Day,Europe,3
+1013,Customer_13,Germany,iPhone 12,512GB,Blue,3,1868,18-02-2025,PayPal,Los Angeles,5604,4944.53,Above Average,Standard,North America,5
+1014,Customer_14,USA,iPhone 12,512GB,Black,3,1743,17-01-2025,Credit Card,Chicago,5229,4944.53,Above Average,Same Day,Asia Pacific,3
+1015,Customer_15,UAE,iPhone 14 Pro,256GB,Blue,1,1544,27-01-2025,Credit Card,Vancouver,1544,4944.53,Below Average,Express,North America,4
+1016,Customer_16,UAE,iPhone 12,128GB,Blue,4,1819,04-04-2025,Debit Card,Houston,7276,4944.53,Above Average,Standard,Europe,4
+1017,Customer_17,Germany,iPhone 13,512GB,Red,5,1992,28-04-2025,PayPal,Montreal,9960,4944.53,Above Average,Express,North America,4
+1018,Customer_18,Canada,iPhone 14 Pro,256GB,Red,2,1003,04-04-2025,PayPal,San Francisco,2006,4944.53,Below Average,Express,Asia Pacific,5
+1019,Customer_19,UAE,iPhone 13,128GB,Purple,1,1010,15-03-2025,Debit Card,Seattle,1010,4944.53,Below Average,Express,Asia Pacific,3
+1020,Customer_20,UAE,iPhone 15,256GB,Purple,3,1588,27-03-2025,Debit Card,Boston,4764,4944.53,Below Average,Express,Europe,3
+1021,Customer_21,Pakistan,iPhone 15,256GB,Red,3,742,12-03-2025,Cash,New York,2226,4944.53,Below Average,Standard,North America,3
+1022,Customer_22,Pakistan,iPhone 15,128GB,Black,4,1627,22-03-2025,PayPal,Toronto,6508,4944.53,Above Average,Standard,Asia Pacific,5
+1023,Customer_23,USA,iPhone 15,128GB,Red,5,1964,19-04-2025,Cash,Los Angeles,9820,4944.53,Above Average,Express,Europe,4
+1024,Customer_24,UK,iPhone 15,256GB,White,4,817,01-01-2025,Cash,Chicago,3268,4944.53,Below Average,Express,Asia Pacific,4
+1025,Customer_25,UK,iPhone 15 Pro Max,128GB,Purple,5,1571,23-01-2025,Debit Card,Vancouver,7855,4944.53,Above Average,Standard,Asia Pacific,3
+1026,Customer_26,UAE,iPhone 14,128GB,Red,3,1302,27-03-2025,Debit Card,Houston,3906,4944.53,Below Average,Standard,North America,4
+1027,Customer_27,USA,iPhone 13,256GB,White,5,1060,19-01-2025,Cash,Montreal,5300,4944.53,Above Average,Standard,Asia Pacific,4
+1028,Customer_28,UK,iPhone 13,128GB,Blue,4,1879,30-01-2025,Credit Card,San Francisco,7516,4944.53,Above Average,Same Day,North America,5
+1029,Customer_29,Canada,iPhone 14 Pro,256GB,Red,3,1963,30-03-2025,Debit Card,Seattle,5889,4944.53,Above Average,Same Day,Asia Pacific,5
+1030,Customer_30,Canada,iPhone 14,512GB,Blue,5,1673,19-01-2025,Debit Card,Boston,8365,4944.53,Above Average,Same Day,Europe,5
+1031,Customer_31,UAE,iPhone 13,256GB,Purple,5,1135,26-03-2025,Debit Card,New York,5675,4944.53,Above Average,Express,Asia Pacific,5
+1032,Customer_32,USA,iPhone 15 Pro Max,128GB,Blue,5,1550,09-03-2025,PayPal,Toronto,7750,4944.53,Above Average,Same Day,North America,3
+1033,Customer_33,Canada,iPhone 14,128GB,Blue,5,1646,05-02-2025,PayPal,Los Angeles,8230,4944.53,Above Average,Express,North America,5
+1034,Customer_34,USA,iPhone 14 Pro,128GB,Red,4,1559,17-03-2025,Debit Card,Chicago,6236,4944.53,Above Average,Express,Europe,4
+1035,Customer_35,Canada,iPhone 14 Pro,128GB,White,5,1793,02-01-2025,Cash,Vancouver,8965,4944.53,Above Average,Same Day,Asia Pacific,3
+1036,Customer_36,USA,iPhone 12,512GB,Blue,5,1030,02-04-2025,Credit Card,Houston,5150,4944.53,Above Average,Express,Asia Pacific,4
+1037,Customer_37,Canada,iPhone 14 Pro,128GB,Red,2,1921,09-04-2025,Credit Card,Montreal,3842,4944.53,Below Average,Same Day,Europe,4
+1038,Customer_38,UAE,iPhone 14 Pro,128GB,Purple,1,1674,17-04-2025,Credit Card,San Francisco,1674,4944.53,Below Average,Same Day,Asia Pacific,4
+1039,Customer_39,Canada,iPhone 15 Pro Max,256GB,Red,1,1218,25-01-2025,Credit Card,Seattle,1218,4944.53,Below Average,Standard,Asia Pacific,5
+1040,Customer_40,UAE,iPhone 15 Pro Max,256GB,Purple,4,1034,01-05-2025,Credit Card,Boston,4136,4944.53,Below Average,Same Day,North America,5
+1041,Customer_41,UK,iPhone 15,128GB,Black,3,1633,27-03-2025,Credit Card,New York,4899,4944.53,Below Average,Standard,Asia Pacific,3
+1042,Customer_42,UK,iPhone 15,256GB,Black,4,720,20-01-2025,Debit Card,Toronto,2880,4944.53,Below Average,Same Day,Asia Pacific,3
+1043,Customer_43,UAE,iPhone 15,128GB,Red,2,1238,22-03-2025,Credit Card,Los Angeles,2476,4944.53,Below Average,Same Day,Europe,5
+1044,Customer_44,USA,iPhone 13,256GB,White,4,1779,12-01-2025,Debit Card,Chicago,7116,4944.53,Above Average,Standard,Europe,4
+1045,Customer_45,UK,iPhone 13,256GB,Purple,5,1667,18-04-2025,Debit Card,Vancouver,8335,4944.53,Above Average,Standard,North America,3
+1046,Customer_46,Germany,iPhone 15 Pro Max,512GB,Blue,1,1094,12-01-2025,PayPal,Houston,1094,4944.53,Below Average,Same Day,Asia Pacific,5
+1047,Customer_47,USA,iPhone 12,256GB,White,5,1120,11-01-2025,PayPal,Montreal,5600,4944.53,Above Average,Express,Asia Pacific,5
+1048,Customer_48,USA,iPhone 14,256GB,Black,5,1786,28-03-2025,Cash,San Francisco,8930,4944.53,Above Average,Standard,Asia Pacific,5
+1049,Customer_49,Canada,iPhone 14,128GB,Black,1,1199,27-03-2025,Debit Card,Seattle,1199,4944.53,Below Average,Express,North America,4
+1050,Customer_50,Canada,iPhone 14 Pro,128GB,Blue,1,733,12-01-2025,Cash,Boston,733,4944.53,Below Average,Express,North America,5
+1051,Customer_51,UK,iPhone 15 Pro Max,256GB,Blue,5,1113,22-01-2025,Credit Card,New York,5565,4944.53,Above Average,Express,Europe,5
+1052,Customer_52,Pakistan,iPhone 14,512GB,Blue,5,764,12-03-2025,Debit Card,Toronto,3820,4944.53,Below Average,Standard,North America,5
+1053,Customer_53,USA,iPhone 14 Pro,128GB,Black,1,1959,27-02-2025,PayPal,Los Angeles,1959,4944.53,Below Average,Express,Asia Pacific,5
+1054,Customer_54,UK,iPhone 14,256GB,White,1,1829,24-04-2025,Credit Card,Chicago,1829,4944.53,Below Average,Standard,Asia Pacific,3
+1055,Customer_55,Pakistan,iPhone 14 Pro,128GB,Blue,2,899,10-04-2025,PayPal,Vancouver,1798,4944.53,Below Average,Express,North America,3
+1056,Customer_56,USA,iPhone 15,512GB,Black,5,1250,02-01-2025,Debit Card,Houston,6250,4944.53,Above Average,Same Day,Asia Pacific,5
+1057,Customer_57,Pakistan,iPhone 14 Pro,256GB,Blue,1,945,01-05-2025,Debit Card,Montreal,945,4944.53,Below Average,Same Day,Asia Pacific,4
+1058,Customer_58,UK,iPhone 15 Pro Max,256GB,Purple,5,1752,11-04-2025,Debit Card,San Francisco,8760,4944.53,Above Average,Standard,North America,3
+1059,Customer_59,Pakistan,iPhone 14 Pro,512GB,Red,4,1909,13-04-2025,Debit Card,Seattle,7636,4944.53,Above Average,Same Day,North America,5
+1060,Customer_60,Germany,iPhone 14 Pro,512GB,Blue,5,1714,12-01-2025,Credit Card,Boston,8570,4944.53,Above Average,Same Day,Asia Pacific,3
+1061,Customer_61,UAE,iPhone 15,512GB,Black,5,1519,21-02-2025,Debit Card,New York,7595,4944.53,Above Average,Express,Asia Pacific,3
+1062,Customer_62,Canada,iPhone 13,512GB,Purple,4,1769,05-04-2025,PayPal,Toronto,7076,4944.53,Above Average,Standard,Asia Pacific,4
+1063,Customer_63,Canada,iPhone 15 Pro Max,128GB,White,5,1644,21-02-2025,Credit Card,Los Angeles,8220,4944.53,Above Average,Express,Europe,5
+1064,Customer_64,UK,iPhone 15 Pro Max,512GB,Red,2,1991,28-01-2025,Cash,Chicago,3982,4944.53,Below Average,Express,Europe,5
+1065,Customer_65,Canada,iPhone 14,256GB,White,3,1706,04-01-2025,Debit Card,Vancouver,5118,4944.53,Above Average,Express,Europe,4
+1066,Customer_66,USA,iPhone 14,256GB,White,1,1884,28-03-2025,Debit Card,Houston,1884,4944.53,Below Average,Express,North America,4
+1067,Customer_67,Canada,iPhone 14 Pro,128GB,Blue,3,1027,22-04-2025,Debit Card,Montreal,3081,4944.53,Below Average,Express,Europe,5
+1068,Customer_68,Pakistan,iPhone 15 Pro Max,128GB,Black,2,788,05-04-2025,Credit Card,San Francisco,1576,4944.53,Below Average,Express,North America,5
+1069,Customer_69,Germany,iPhone 14 Pro,128GB,White,3,796,25-01-2025,PayPal,Seattle,2388,4944.53,Below Average,Express,North America,4
+1070,Customer_70,Canada,iPhone 14 Pro,512GB,Blue,4,1829,13-01-2025,Credit Card,Boston,7316,4944.53,Above Average,Standard,Europe,3
+1071,Customer_71,UK,iPhone 12,512GB,Purple,2,1977,10-01-2025,Cash,New York,3954,4944.53,Below Average,Same Day,Europe,3
+1072,Customer_72,UAE,iPhone 12,128GB,Red,5,1964,06-02-2025,Debit Card,Toronto,9820,4944.53,Above Average,Express,Europe,4
+1073,Customer_73,USA,iPhone 14 Pro,128GB,Red,2,1629,28-01-2025,Cash,Los Angeles,3258,4944.53,Below Average,Express,Asia Pacific,3
+1074,Customer_74,Germany,iPhone 15 Pro Max,256GB,White,1,1987,25-04-2025,PayPal,Chicago,1987,4944.53,Below Average,Express,Europe,4
+1075,Customer_75,Germany,iPhone 14,512GB,Blue,4,1547,10-01-2025,Cash,Vancouver,6188,4944.53,Above Average,Express,Asia Pacific,3
+1076,Customer_76,UK,iPhone 14 Pro,256GB,Red,5,1923,12-04-2025,Cash,Houston,9615,4944.53,Above Average,Express,North America,3
+1077,Customer_77,UAE,iPhone 14 Pro,512GB,Blue,2,1477,27-02-2025,PayPal,Montreal,2954,4944.53,Below Average,Express,Asia Pacific,5
+1078,Customer_78,Pakistan,iPhone 13,128GB,Purple,4,1464,15-01-2025,Cash,San Francisco,5856,4944.53,Above Average,Same Day,Europe,5
+1079,Customer_79,USA,iPhone 15,128GB,Purple,3,1790,12-02-2025,Credit Card,Seattle,5370,4944.53,Above Average,Same Day,North America,3
+1080,Customer_80,USA,iPhone 15,512GB,Purple,4,1819,24-02-2025,Debit Card,Boston,7276,4944.53,Above Average,Express,North America,3
+1081,Customer_81,Pakistan,iPhone 13,256GB,Purple,5,1579,05-03-2025,Credit Card,New York,7895,4944.53,Above Average,Same Day,North America,5
+1082,Customer_82,UK,iPhone 15 Pro Max,256GB,Blue,1,756,28-03-2025,Debit Card,Toronto,756,4944.53,Below Average,Standard,Asia Pacific,5
+1083,Customer_83,UK,iPhone 14 Pro,128GB,White,3,1165,08-03-2025,Cash,Los Angeles,3495,4944.53,Below Average,Express,Europe,5
+1084,Customer_84,Germany,iPhone 13,256GB,Red,5,1229,22-03-2025,Cash,Chicago,6145,4944.53,Above Average,Standard,North America,4
+1085,Customer_85,UK,iPhone 12,256GB,White,4,1656,12-04-2025,Cash,Vancouver,6624,4944.53,Above Average,Standard,North America,3
+1086,Customer_86,Germany,iPhone 12,256GB,Black,2,950,08-04-2025,Cash,Houston,1900,4944.53,Below Average,Express,North America,5
+1087,Customer_87,Canada,iPhone 15,128GB,White,1,1903,02-01-2025,PayPal,Montreal,1903,4944.53,Below Average,Same Day,Asia Pacific,3
+1088,Customer_88,UK,iPhone 15 Pro Max,512GB,Purple,5,718,04-02-2025,Cash,San Francisco,3590,4944.53,Below Average,Standard,Asia Pacific,4
+1089,Customer_89,USA,iPhone 13,256GB,White,3,1249,12-01-2025,Debit Card,Seattle,3747,4944.53,Below Average,Express,Europe,4
+1090,Customer_90,USA,iPhone 12,256GB,White,3,887,17-02-2025,Debit Card,Boston,2661,4944.53,Below Average,Standard,Asia Pacific,5
+1091,Customer_91,UAE,iPhone 15,256GB,Red,5,1357,22-03-2025,PayPal,New York,6785,4944.53,Above Average,Standard,North America,4
+1092,Customer_92,UAE,iPhone 15 Pro Max,256GB,White,3,1361,10-02-2025,Credit Card,Toronto,4083,4944.53,Below Average,Standard,Europe,3
+1093,Customer_93,UK,iPhone 12,256GB,Black,3,1971,20-01-2025,Credit Card,Los Angeles,5913,4944.53,Above Average,Standard,North America,5
+1094,Customer_94,USA,iPhone 15 Pro Max,512GB,White,1,1622,22-03-2025,Credit Card,Chicago,1622,4944.53,Below Average,Same Day,North America,3
+1095,Customer_95,Canada,iPhone 13,128GB,White,4,1388,06-01-2025,Credit Card,Vancouver,5552,4944.53,Above Average,Standard,Asia Pacific,3
+1096,Customer_96,UAE,iPhone 14 Pro,256GB,Blue,1,1743,09-03-2025,Credit Card,Houston,1743,4944.53,Below Average,Standard,Europe,4
+1097,Customer_97,UK,iPhone 15 Pro Max,512GB,White,3,1671,08-02-2025,Credit Card,Montreal,5013,4944.53,Above Average,Standard,Asia Pacific,4
+1098,Customer_98,UK,iPhone 15 Pro Max,512GB,White,4,1125,08-01-2025,Debit Card,San Francisco,4500,4944.53,Below Average,Same Day,Asia Pacific,4
+1099,Customer_99,Germany,iPhone 15 Pro Max,512GB,Purple,5,1540,04-02-2025,Debit Card,Seattle,7700,4944.53,Above Average,Standard,Europe,4
+1100,Customer_100,UK,iPhone 15,512GB,Blue,3,1549,28-03-2025,Debit Card,Boston,4647,4944.53,Below Average,Standard,North America,4
+1101,Customer_101,UK,iPhone 15,128GB,Gold,1,960,17-02-2025,PayPal,London,960,4944.53,Above Average,Standard,North America,5
+1102,Customer_102,UK,iPhone 14,512GB,Blue,5,1362,21-01-2025,Debit Card,Manchester,6810,4944.53,Above Average,Same Day,North America,3
+1103,Customer_103,USA,iPhone 12,128GB,White,4,1346,07-06-2025,Credit Card,Los Angeles,5384,4944.53,Below Average,Standard,Europe,5
+1104,Customer_104,USA,iPhone 15 Pro Max,512GB,Purple,5,1296,26-04-2025,PayPal,New York,6480,4944.53,Above Average,Standard,Asia Pacific,3
+1105,Customer_105,UK,iPhone 13,512GB,Blue,1,1365,01-02-2025,PayPal,Manchester,1365,4944.53,Below Average,Same Day,Europe,5
+1106,Customer_106,UK,iPhone 12,128GB,Purple,2,1584,25-06-2025,PayPal,Manchester,3168,4944.53,Above Average,Express,Asia Pacific,4
+1107,Customer_107,UK,iPhone 15 Pro Max,256GB,Black,1,1207,05-02-2025,Credit Card,Manchester,1207,4944.53,Below Average,Standard,Europe,4
+1108,Customer_108,UK,iPhone 14,128GB,Blue,4,1633,04-03-2025,Debit Card,Birmingham,6532,4944.53,Above Average,Express,Europe,4
+1109,Customer_109,Canada,iPhone 14,128GB,Black,4,1481,08-01-2025,Credit Card,Toronto,5924,4944.53,Below Average,Standard,Asia Pacific,4
+1110,Customer_110,USA,iPhone 15,128GB,Blue,3,1622,04-05-2025,Debit Card,Chicago,4866,4944.53,Below Average,Same Day,North America,5
+1111,Customer_111,UK,iPhone 13,128GB,Black,2,1540,20-05-2025,Credit Card,Manchester,3080,4944.53,Above Average,Express,Europe,3
+1112,Customer_112,UK,iPhone 15 Pro Max,128GB,Black,1,1287,16-01-2025,Credit Card,Manchester,1287,4944.53,Above Average,Same Day,North America,4
+1113,Customer_113,USA,iPhone 13,512GB,Gold,3,1899,27-03-2025,Credit Card,Los Angeles,5697,4944.53,Above Average,Express,North America,5
+1114,Customer_114,USA,iPhone 15,256GB,Blue,4,1252,25-06-2025,Credit Card,Chicago,5008,4944.53,Above Average,Standard,Europe,4
+1115,Customer_115,USA,iPhone 15 Pro Max,256GB,White,2,1321,18-05-2025,Debit Card,Los Angeles,2642,4944.53,Above Average,Express,North America,3
+1116,Customer_116,USA,iPhone 15,512GB,White,2,1296,01-06-2025,Debit Card,Los Angeles,2592,4944.53,Above Average,Standard,North America,3
+1117,Customer_117,UK,iPhone 13,512GB,White,5,1991,29-01-2025,Credit Card,Birmingham,9955,4944.53,Below Average,Same Day,Europe,4
+1118,Customer_118,USA,iPhone 12,256GB,Gold,2,834,03-06-2025,Debit Card,Los Angeles,1668,4944.53,Below Average,Express,Europe,5
+1119,Customer_119,USA,iPhone 15 Pro Max,256GB,Gold,4,1625,16-03-2025,Credit Card,Los Angeles,6500,4944.53,Below Average,Standard,North America,3
+1120,Customer_120,USA,iPhone 14,128GB,Purple,5,1256,05-02-2025,Debit Card,Chicago,6280,4944.53,Above Average,Same Day,Asia Pacific,4
+1121,Customer_121,USA,iPhone 12,512GB,Black,5,1078,30-01-2025,Credit Card,New York,5390,4944.53,Above Average,Express,North America,4
+1122,Customer_122,USA,iPhone 15,128GB,Black,3,976,27-05-2025,Credit Card,Los Angeles,2928,4944.53,Above Average,Express,Asia Pacific,5
+1123,Customer_123,Canada,iPhone 14,128GB,White,5,1892,03-05-2025,Credit Card,Montreal,9460,4944.53,Below Average,Standard,Asia Pacific,3
+1124,Customer_124,UK,iPhone 13,512GB,Blue,5,1865,13-05-2025,PayPal,London,9325,4944.53,Above Average,Standard,Asia Pacific,5
+1125,Customer_125,Canada,iPhone 13,256GB,White,4,1832,25-05-2025,Credit Card,Montreal,7328,4944.53,Below Average,Same Day,Europe,3
+1126,Customer_126,Canada,iPhone 13,256GB,Gold,2,1594,29-01-2025,Credit Card,Toronto,3188,4944.53,Below Average,Same Day,North America,3
+1127,Customer_127,Canada,iPhone 15,256GB,White,1,1955,08-06-2025,PayPal,Toronto,1955,4944.53,Above Average,Express,Asia Pacific,5
+1128,Customer_128,Canada,iPhone 14,128GB,Gold,3,838,06-05-2025,Debit Card,Vancouver,2514,4944.53,Below Average,Standard,Asia Pacific,3
+1129,Customer_129,UK,iPhone 12,512GB,White,3,1147,23-04-2025,Credit Card,London,3441,4944.53,Below Average,Standard,Europe,3
+1130,Customer_130,Canada,iPhone 15 Pro Max,128GB,Gold,4,1484,21-03-2025,Debit Card,Vancouver,5936,4944.53,Above Average,Same Day,North America,5
+1131,Customer_131,UK,iPhone 12,128GB,Black,2,846,27-04-2025,Debit Card,London,1692,4944.53,Below Average,Same Day,Asia Pacific,3
+1132,Customer_132,UK,iPhone 15 Pro Max,256GB,White,4,1467,13-06-2025,Debit Card,Manchester,5868,4944.53,Below Average,Express,Europe,3
+1133,Customer_133,USA,iPhone 15 Pro Max,128GB,White,1,1728,06-06-2025,Credit Card,Los Angeles,1728,4944.53,Below Average,Same Day,North America,4
+1134,Customer_134,Canada,iPhone 13,256GB,Blue,5,1249,19-04-2025,Credit Card,Montreal,6245,4944.53,Above Average,Standard,Europe,3
+1135,Customer_135,Canada,iPhone 13,512GB,Black,1,1652,27-03-2025,PayPal,Montreal,1652,4944.53,Above Average,Standard,North America,3
+1136,Customer_136,Canada,iPhone 12,128GB,White,3,1310,05-04-2025,Credit Card,Toronto,3930,4944.53,Below Average,Same Day,North America,5
+1137,Customer_137,USA,iPhone 13,512GB,Black,5,1513,26-03-2025,Debit Card,New York,7565,4944.53,Above Average,Express,North America,5
+1138,Customer_138,USA,iPhone 12,256GB,White,4,1248,05-04-2025,PayPal,New York,4992,4944.53,Below Average,Express,Europe,4
+1139,Customer_139,Canada,iPhone 12,256GB,White,3,1067,13-05-2025,Debit Card,Montreal,3201,4944.53,Below Average,Same Day,North America,3
+1140,Customer_140,UK,iPhone 13,512GB,Purple,5,1652,13-04-2025,Debit Card,Birmingham,8260,4944.53,Below Average,Express,Europe,4
+1141,Customer_141,Canada,iPhone 13,128GB,Black,3,1234,20-03-2025,Debit Card,Vancouver,3702,4944.53,Above Average,Express,Asia Pacific,3
+1142,Customer_142,USA,iPhone 12,256GB,Black,4,937,25-03-2025,Credit Card,New York,3748,4944.53,Below Average,Express,North America,4
+1143,Customer_143,USA,iPhone 14,512GB,Black,3,842,31-05-2025,PayPal,Chicago,2526,4944.53,Below Average,Same Day,Asia Pacific,4
+1144,Customer_144,USA,iPhone 15 Pro Max,256GB,Gold,3,1466,02-05-2025,PayPal,Los Angeles,4398,4944.53,Above Average,Standard,North America,4
+1145,Customer_145,Canada,iPhone 12,128GB,Black,5,1637,12-01-2025,Debit Card,Toronto,8185,4944.53,Below Average,Express,North America,4
+1146,Customer_146,Canada,iPhone 13,128GB,Black,3,1896,25-02-2025,Debit Card,Toronto,5688,4944.53,Above Average,Same Day,North America,3
+1147,Customer_147,Canada,iPhone 13,512GB,Blue,1,1518,19-04-2025,Debit Card,Toronto,1518,4944.53,Below Average,Same Day,Asia Pacific,5
+1148,Customer_148,UK,iPhone 14,512GB,Black,3,1605,29-04-2025,Credit Card,Birmingham,4815,4944.53,Below Average,Express,Asia Pacific,3
+1149,Customer_149,USA,iPhone 15,128GB,Black,2,925,13-01-2025,Credit Card,Los Angeles,1850,4944.53,Below Average,Express,Asia Pacific,3
+1150,Customer_150,USA,iPhone 13,512GB,Black,4,910,24-03-2025,Debit Card,Chicago,3640,4944.53,Above Average,Standard,Europe,4
+1151,Customer_151,Canada,iPhone 15 Pro Max,128GB,Black,3,1676,30-05-2025,Credit Card,Montreal,5028,4944.53,Below Average,Express,Asia Pacific,4
+1152,Customer_152,UK,iPhone 14,512GB,Gold,1,1558,05-02-2025,PayPal,Manchester,1558,4944.53,Below Average,Express,Asia Pacific,5
+1153,Customer_153,Canada,iPhone 14,256GB,Black,1,1303,20-03-2025,PayPal,Vancouver,1303,4944.53,Below Average,Express,Asia Pacific,3
+1154,Customer_154,USA,iPhone 15,512GB,White,2,1941,20-01-2025,Credit Card,Chicago,3882,4944.53,Below Average,Same Day,North America,4
+1155,Customer_155,Canada,iPhone 15,128GB,Purple,5,938,03-01-2025,Credit Card,Vancouver,4690,4944.53,Below Average,Express,Europe,3
+1156,Customer_156,UK,iPhone 15 Pro Max,256GB,White,4,1697,06-03-2025,PayPal,Manchester,6788,4944.53,Above Average,Standard,North America,3
+1157,Customer_157,UK,iPhone 12,128GB,White,3,1918,27-06-2025,Debit Card,Birmingham,5754,4944.53,Above Average,Same Day,North America,4
+1158,Customer_158,UK,iPhone 15,128GB,Purple,1,1717,15-04-2025,Credit Card,Birmingham,1717,4944.53,Below Average,Express,Asia Pacific,3
+1159,Customer_159,USA,iPhone 13,256GB,White,3,877,30-03-2025,Credit Card,New York,2631,4944.53,Below Average,Standard,Europe,5
+1160,Customer_160,Canada,iPhone 12,512GB,Black,5,1221,02-06-2025,Credit Card,Montreal,6105,4944.53,Above Average,Same Day,Asia Pacific,4
+1161,Customer_161,Canada,iPhone 14,256GB,Purple,3,1862,15-05-2025,PayPal,Toronto,5586,4944.53,Below Average,Express,Asia Pacific,5
+1162,Customer_162,USA,iPhone 14,128GB,Black,4,1277,07-04-2025,Credit Card,New York,5108,4944.53,Above Average,Same Day,Asia Pacific,3
+1163,Customer_163,Canada,iPhone 14,256GB,Black,2,1316,28-04-2025,Debit Card,Vancouver,2632,4944.53,Above Average,Same Day,Asia Pacific,3
+1164,Customer_164,UK,iPhone 15,128GB,Blue,5,1980,04-06-2025,PayPal,London,9900,4944.53,Above Average,Same Day,Europe,5
+1165,Customer_165,UK,iPhone 13,256GB,Blue,4,810,15-02-2025,PayPal,London,3240,4944.53,Below Average,Express,North America,4
+1166,Customer_166,Canada,iPhone 14,128GB,Gold,1,1627,13-03-2025,PayPal,Toronto,1627,4944.53,Below Average,Standard,Asia Pacific,4
+1167,Customer_167,USA,iPhone 12,256GB,Purple,3,1852,31-05-2025,Credit Card,Chicago,5556,4944.53,Below Average,Standard,North America,4
+1168,Customer_168,Canada,iPhone 14,512GB,Gold,1,1824,24-06-2025,Credit Card,Vancouver,1824,4944.53,Above Average,Standard,Europe,3
+1169,Customer_169,USA,iPhone 15,128GB,Blue,1,1374,16-03-2025,Debit Card,Chicago,1374,4944.53,Below Average,Same Day,Europe,5
+1170,Customer_170,Canada,iPhone 14,512GB,White,1,1439,28-06-2025,Debit Card,Montreal,1439,4944.53,Below Average,Standard,Asia Pacific,4
+1171,Customer_171,USA,iPhone 14,256GB,Blue,1,1084,05-06-2025,Debit Card,New York,1084,4944.53,Above Average,Standard,Asia Pacific,3
+1172,Customer_172,USA,iPhone 15,512GB,Gold,4,1141,14-04-2025,Credit Card,New York,4564,4944.53,Above Average,Standard,North America,4
+1173,Customer_173,UK,iPhone 14,256GB,Gold,3,1751,18-02-2025,Credit Card,Birmingham,5253,4944.53,Above Average,Express,Asia Pacific,4
+1174,Customer_174,USA,iPhone 13,256GB,White,3,1998,23-04-2025,Debit Card,Chicago,5994,4944.53,Below Average,Express,Asia Pacific,5
+1175,Customer_175,USA,iPhone 13,256GB,Purple,3,1599,20-04-2025,Debit Card,New York,4797,4944.53,Below Average,Standard,Asia Pacific,5
+1176,Customer_176,Canada,iPhone 12,128GB,Purple,5,1831,13-03-2025,Debit Card,Montreal,9155,4944.53,Above Average,Same Day,North America,5
+1177,Customer_177,UK,iPhone 13,512GB,Purple,4,1806,24-05-2025,Credit Card,London,7224,4944.53,Below Average,Standard,Europe,5
+1178,Customer_178,UK,iPhone 12,512GB,Gold,2,1574,27-05-2025,Credit Card,Manchester,3148,4944.53,Above Average,Standard,Europe,4
+1179,Customer_179,USA,iPhone 13,512GB,White,5,1545,20-01-2025,Credit Card,Los Angeles,7725,4944.53,Above Average,Express,Europe,3
+1180,Customer_180,Canada,iPhone 15,128GB,Blue,4,1653,07-06-2025,PayPal,Toronto,6612,4944.53,Below Average,Same Day,North America,4
+1181,Customer_181,UK,iPhone 13,128GB,Black,1,1351,13-04-2025,Credit Card,London,1351,4944.53,Below Average,Express,Asia Pacific,4
+1182,Customer_182,Canada,iPhone 13,512GB,Gold,5,1932,16-03-2025,Debit Card,Vancouver,9660,4944.53,Below Average,Standard,Europe,3
+1183,Customer_183,Canada,iPhone 13,512GB,Gold,1,1976,16-04-2025,Debit Card,Vancouver,1976,4944.53,Above Average,Same Day,North America,5
+1184,Customer_184,Canada,iPhone 15 Pro Max,128GB,Gold,2,1067,18-05-2025,Credit Card,Montreal,2134,4944.53,Above Average,Express,North America,4
+1185,Customer_185,Canada,iPhone 14,128GB,Purple,2,1819,05-02-2025,PayPal,Vancouver,3638,4944.53,Below Average,Standard,North America,5
+1186,Customer_186,UK,iPhone 14,256GB,Blue,3,1606,24-02-2025,PayPal,London,4818,4944.53,Below Average,Express,Europe,3
+1187,Customer_187,USA,iPhone 15,512GB,Purple,4,1550,22-03-2025,Debit Card,Chicago,6200,4944.53,Above Average,Standard,Asia Pacific,4
+1188,Customer_188,USA,iPhone 12,128GB,Black,2,872,02-03-2025,PayPal,Chicago,1744,4944.53,Below Average,Express,North America,5
+1189,Customer_189,UK,iPhone 15,512GB,Blue,2,907,12-01-2025,PayPal,Birmingham,1814,4944.53,Above Average,Same Day,Asia Pacific,3
+1190,Customer_190,USA,iPhone 14,512GB,Gold,2,811,22-03-2025,PayPal,New York,1622,4944.53,Above Average,Express,Europe,3
+1191,Customer_191,Canada,iPhone 15 Pro Max,256GB,Blue,4,1288,16-01-2025,PayPal,Toronto,5152,4944.53,Above Average,Same Day,Europe,3
+1192,Customer_192,Canada,iPhone 14,256GB,Purple,5,936,23-03-2025,PayPal,Vancouver,4680,4944.53,Below Average,Same Day,Asia Pacific,4
+1193,Customer_193,UK,iPhone 14,128GB,Blue,1,1982,11-05-2025,Credit Card,Manchester,1982,4944.53,Above Average,Express,Asia Pacific,5
+1194,Customer_194,UK,iPhone 12,128GB,Blue,1,1781,10-06-2025,Credit Card,Birmingham,1781,4944.53,Below Average,Express,Europe,5
+1195,Customer_195,UK,iPhone 14,512GB,Gold,2,1213,21-05-2025,Debit Card,Manchester,2426,4944.53,Below Average,Same Day,Asia Pacific,5
+1196,Customer_196,Canada,iPhone 15 Pro Max,128GB,White,1,1276,01-05-2025,Debit Card,Toronto,1276,4944.53,Below Average,Standard,Asia Pacific,5
+1197,Customer_197,USA,iPhone 15 Pro Max,256GB,Blue,1,802,09-03-2025,Debit Card,New York,802,4944.53,Below Average,Standard,North America,3
+1198,Customer_198,USA,iPhone 12,128GB,White,1,1198,20-05-2025,PayPal,Chicago,1198,4944.53,Below Average,Standard,North America,3
+1199,Customer_199,UK,iPhone 15 Pro Max,256GB,Black,3,1885,21-02-2025,PayPal,Manchester,5655,4944.53,Below Average,Standard,Asia Pacific,4
+1200,Customer_200,USA,iPhone 13,128GB,Blue,5,1930,18-06-2025,Credit Card,Los Angeles,9650,4944.53,Below Average,Same Day,Europe,3
+1201,Customer_201,USA,iPhone 15,256GB,Black,1,1922,02-03-2025,PayPal,Chicago,1922,4944.53,Below Average,Same Day,Europe,4
+1202,Customer_202,Canada,iPhone 14,256GB,Gold,3,959,30-04-2025,Credit Card,Toronto,2877,4944.53,Above Average,Standard,North America,4
+1203,Customer_203,USA,iPhone 14,512GB,White,3,1751,29-01-2025,Credit Card,Chicago,5253,4944.53,Above Average,Standard,Europe,4
+1204,Customer_204,USA,iPhone 13,512GB,Purple,1,1754,13-05-2025,Debit Card,Los Angeles,1754,4944.53,Below Average,Express,North America,3
+1205,Customer_205,USA,iPhone 15 Pro Max,256GB,Gold,1,1937,25-04-2025,Debit Card,New York,1937,4944.53,Above Average,Express,Asia Pacific,3
+1206,Customer_206,USA,iPhone 15,128GB,Purple,3,1135,28-02-2025,Credit Card,New York,3405,4944.53,Above Average,Same Day,North America,3
+1207,Customer_207,USA,iPhone 14,256GB,White,4,990,07-01-2025,Credit Card,Chicago,3960,4944.53,Above Average,Standard,Europe,3
+1208,Customer_208,UK,iPhone 14,128GB,Blue,2,1471,10-04-2025,Debit Card,Birmingham,2942,4944.53,Below Average,Standard,North America,5
+1209,Customer_209,Canada,iPhone 12,128GB,Blue,3,1936,29-03-2025,Credit Card,Toronto,5808,4944.53,Above Average,Express,Asia Pacific,4
+1210,Customer_210,UK,iPhone 15,512GB,Gold,1,1793,22-01-2025,Debit Card,Manchester,1793,4944.53,Below Average,Same Day,North America,4
+1211,Customer_211,USA,iPhone 13,512GB,Blue,1,821,19-02-2025,Debit Card,Chicago,821,4944.53,Below Average,Same Day,North America,5
+1212,Customer_212,UK,iPhone 15 Pro Max,512GB,Black,4,1830,14-05-2025,PayPal,London,7320,4944.53,Above Average,Same Day,Asia Pacific,4
+1213,Customer_213,UK,iPhone 15 Pro Max,128GB,Purple,2,1537,21-05-2025,Credit Card,Manchester,3074,4944.53,Above Average,Same Day,Asia Pacific,3
+1214,Customer_214,USA,iPhone 15,256GB,Purple,4,1953,27-01-2025,PayPal,Los Angeles,7812,4944.53,Above Average,Express,North America,3
+1215,Customer_215,UK,iPhone 14,128GB,Gold,3,883,11-05-2025,PayPal,London,2649,4944.53,Above Average,Express,Europe,5
+1216,Customer_216,Canada,iPhone 12,256GB,White,3,1808,27-01-2025,Debit Card,Toronto,5424,4944.53,Above Average,Standard,North America,3
+1217,Customer_217,UK,iPhone 14,128GB,White,2,998,24-01-2025,Debit Card,Birmingham,1996,4944.53,Above Average,Express,Asia Pacific,3
+1218,Customer_218,Canada,iPhone 12,512GB,Gold,1,1320,27-04-2025,Debit Card,Vancouver,1320,4944.53,Below Average,Same Day,North America,3
+1219,Customer_219,USA,iPhone 14,128GB,Black,2,1406,02-02-2025,Debit Card,Chicago,2812,4944.53,Above Average,Same Day,Europe,5
+1220,Customer_220,USA,iPhone 15,128GB,Blue,4,1688,17-06-2025,Debit Card,New York,6752,4944.53,Below Average,Standard,Europe,3
+1221,Customer_221,USA,iPhone 15,256GB,Blue,5,1388,15-06-2025,PayPal,New York,6940,4944.53,Below Average,Express,Europe,4
+1222,Customer_222,UK,iPhone 15,128GB,Purple,2,1686,02-03-2025,PayPal,Manchester,3372,4944.53,Above Average,Express,North America,4
+1223,Customer_223,USA,iPhone 13,256GB,White,1,1515,03-03-2025,PayPal,Los Angeles,1515,4944.53,Above Average,Same Day,Asia Pacific,5
+1224,Customer_224,Canada,iPhone 14,512GB,Black,2,1694,16-04-2025,Debit Card,Vancouver,3388,4944.53,Above Average,Express,Europe,5
+1225,Customer_225,USA,iPhone 14,512GB,White,5,921,22-06-2025,Credit Card,New York,4605,4944.53,Above Average,Standard,Asia Pacific,5
+1226,Customer_226,Canada,iPhone 15 Pro Max,128GB,Purple,2,1461,11-05-2025,Debit Card,Vancouver,2922,4944.53,Above Average,Same Day,North America,3
+1227,Customer_227,Canada,iPhone 15,128GB,Gold,1,1702,08-06-2025,Debit Card,Montreal,1702,4944.53,Above Average,Standard,Europe,4
+1228,Customer_228,USA,iPhone 13,128GB,Blue,1,1219,07-03-2025,PayPal,Los Angeles,1219,4944.53,Below Average,Express,Asia Pacific,4
+1229,Customer_229,UK,iPhone 15,512GB,Gold,2,1436,18-01-2025,Credit Card,Birmingham,2872,4944.53,Above Average,Standard,Asia Pacific,4
+1230,Customer_230,Canada,iPhone 13,512GB,Gold,2,1739,10-03-2025,Debit Card,Montreal,3478,4944.53,Above Average,Standard,Europe,4
+1231,Customer_231,USA,iPhone 13,512GB,Black,1,1907,03-05-2025,Credit Card,Los Angeles,1907,4944.53,Above Average,Express,Asia Pacific,3
+1232,Customer_232,USA,iPhone 15,128GB,Purple,1,1259,10-01-2025,PayPal,Los Angeles,1259,4944.53,Below Average,Express,Europe,3
+1233,Customer_233,Canada,iPhone 15,512GB,White,1,932,01-01-2025,Credit Card,Vancouver,932,4944.53,Below Average,Express,North America,5
+1234,Customer_234,USA,iPhone 12,128GB,White,5,964,25-02-2025,PayPal,Los Angeles,4820,4944.53,Above Average,Express,Asia Pacific,3
+1235,Customer_235,Canada,iPhone 15 Pro Max,256GB,Gold,2,1768,01-01-2025,PayPal,Vancouver,3536,4944.53,Above Average,Express,North America,3
+1236,Customer_236,UK,iPhone 14,256GB,White,1,1808,20-01-2025,Credit Card,London,1808,4944.53,Below Average,Same Day,Asia Pacific,4
+1237,Customer_237,Canada,iPhone 14,256GB,White,2,1862,07-02-2025,PayPal,Toronto,3724,4944.53,Below Average,Express,North America,4
+1238,Customer_238,Canada,iPhone 15 Pro Max,256GB,Gold,2,928,27-03-2025,PayPal,Montreal,1856,4944.53,Below Average,Standard,Asia Pacific,5
+1239,Customer_239,Canada,iPhone 13,128GB,Blue,2,913,16-05-2025,PayPal,Montreal,1826,4944.53,Below Average,Standard,Asia Pacific,3
+1240,Customer_240,Canada,iPhone 15 Pro Max,128GB,Black,1,1970,31-03-2025,Debit Card,Toronto,1970,4944.53,Below Average,Express,Europe,4
+1241,Customer_241,UK,iPhone 15 Pro Max,128GB,Gold,1,1912,18-03-2025,PayPal,London,1912,4944.53,Above Average,Same Day,Europe,3
+1242,Customer_242,Canada,iPhone 13,256GB,Gold,4,818,23-01-2025,PayPal,Vancouver,3272,4944.53,Above Average,Same Day,North America,4
+1243,Customer_243,Canada,iPhone 12,256GB,Gold,1,1524,27-05-2025,Credit Card,Montreal,1524,4944.53,Above Average,Standard,North America,3
+1244,Customer_244,UK,iPhone 13,256GB,Black,2,1666,03-01-2025,Credit Card,Manchester,3332,4944.53,Below Average,Express,Europe,3
+1245,Customer_245,USA,iPhone 15 Pro Max,256GB,Gold,1,811,13-02-2025,PayPal,Chicago,811,4944.53,Above Average,Same Day,Europe,4
+1246,Customer_246,Canada,iPhone 15 Pro Max,512GB,Purple,3,1804,21-03-2025,PayPal,Montreal,5412,4944.53,Above Average,Same Day,North America,5
+1247,Customer_247,UK,iPhone 15 Pro Max,256GB,Purple,4,1588,03-02-2025,Debit Card,Birmingham,6352,4944.53,Above Average,Standard,Europe,5
+1248,Customer_248,USA,iPhone 13,256GB,Blue,4,1090,02-01-2025,Credit Card,Los Angeles,4360,4944.53,Above Average,Express,North America,4
+1249,Customer_249,UK,iPhone 15 Pro Max,512GB,Black,4,1862,19-06-2025,Credit Card,Birmingham,7448,4944.53,Below Average,Express,Asia Pacific,4
+1250,Customer_250,USA,iPhone 14,128GB,Gold,2,1358,17-05-2025,Debit Card,New York,2716,4944.53,Above Average,Same Day,Europe,4
+1251,Customer_251,USA,iPhone 12,256GB,Purple,2,1383,06-02-2025,Debit Card,New York,2766,4944.53,Below Average,Same Day,Asia Pacific,4
+1252,Customer_252,USA,iPhone 13,128GB,Black,3,1792,18-04-2025,Debit Card,Chicago,5376,4944.53,Above Average,Same Day,North America,3
+1253,Customer_253,Canada,iPhone 14,256GB,Black,3,1787,19-03-2025,Credit Card,Toronto,5361,4944.53,Above Average,Standard,Europe,3
+1254,Customer_254,Canada,iPhone 12,128GB,Purple,5,1436,24-01-2025,Debit Card,Montreal,7180,4944.53,Above Average,Express,Europe,4
+1255,Customer_255,UK,iPhone 15 Pro Max,128GB,White,4,1543,11-05-2025,Credit Card,London,6172,4944.53,Below Average,Standard,Asia Pacific,4
+1256,Customer_256,USA,iPhone 15,256GB,White,4,1360,05-01-2025,PayPal,Los Angeles,5440,4944.53,Below Average,Standard,Europe,4
+1257,Customer_257,UK,iPhone 13,512GB,Blue,4,1180,21-06-2025,Debit Card,Manchester,4720,4944.53,Below Average,Standard,Asia Pacific,4
+1258,Customer_258,UK,iPhone 15,256GB,White,4,1461,18-03-2025,Credit Card,Manchester,5844,4944.53,Above Average,Same Day,North America,5
+1259,Customer_259,Canada,iPhone 15,128GB,White,1,854,16-05-2025,PayPal,Vancouver,854,4944.53,Below Average,Express,North America,5
+1260,Customer_260,UK,iPhone 12,128GB,Gold,5,1163,25-03-2025,Debit Card,Manchester,5815,4944.53,Below Average,Express,Asia Pacific,3
+1261,Customer_261,USA,iPhone 15 Pro Max,256GB,White,4,1537,31-05-2025,Debit Card,Chicago,6148,4944.53,Above Average,Express,North America,3
+1262,Customer_262,Canada,iPhone 12,512GB,Purple,1,1768,29-06-2025,Debit Card,Montreal,1768,4944.53,Above Average,Express,Europe,5
+1263,Customer_263,Canada,iPhone 15,128GB,White,3,942,12-01-2025,PayPal,Montreal,2826,4944.53,Above Average,Express,Europe,4
+1264,Customer_264,USA,iPhone 14,512GB,White,2,933,14-01-2025,Credit Card,Los Angeles,1866,4944.53,Above Average,Standard,Asia Pacific,4
+1265,Customer_265,UK,iPhone 12,256GB,Black,3,1065,23-02-2025,Credit Card,Manchester,3195,4944.53,Below Average,Same Day,Europe,3
+1266,Customer_266,Canada,iPhone 14,128GB,Black,5,1698,21-05-2025,Credit Card,Vancouver,8490,4944.53,Below Average,Standard,Europe,3
+1267,Customer_267,UK,iPhone 15,128GB,White,4,1835,26-05-2025,Credit Card,London,7340,4944.53,Below Average,Same Day,Europe,3
+1268,Customer_268,UK,iPhone 14,512GB,Purple,2,1883,05-01-2025,PayPal,Manchester,3766,4944.53,Below Average,Express,North America,4
+1269,Customer_269,Canada,iPhone 12,512GB,Purple,2,1879,17-05-2025,PayPal,Montreal,3758,4944.53,Above Average,Standard,Europe,4
+1270,Customer_270,UK,iPhone 15,512GB,Black,4,1408,11-04-2025,PayPal,Birmingham,5632,4944.53,Below Average,Standard,Europe,5
+1271,Customer_271,Canada,iPhone 15 Pro Max,512GB,Purple,5,1567,02-04-2025,Debit Card,Montreal,7835,4944.53,Below Average,Same Day,North America,3
+1272,Customer_272,Canada,iPhone 15 Pro Max,256GB,Blue,2,1204,30-04-2025,PayPal,Toronto,2408,4944.53,Above Average,Standard,North America,3
+1273,Customer_273,Canada,iPhone 15 Pro Max,128GB,White,5,1137,19-05-2025,PayPal,Vancouver,5685,4944.53,Above Average,Same Day,North America,4
+1274,Customer_274,Canada,iPhone 15,256GB,Purple,4,1423,29-06-2025,Credit Card,Vancouver,5692,4944.53,Below Average,Express,North America,4
+1275,Customer_275,USA,iPhone 12,128GB,Black,1,991,09-05-2025,Debit Card,New York,991,4944.53,Below Average,Standard,North America,4
+1276,Customer_276,Canada,iPhone 15 Pro Max,512GB,Blue,4,1031,08-01-2025,PayPal,Vancouver,4124,4944.53,Below Average,Standard,Asia Pacific,3
+1277,Customer_277,UK,iPhone 15,128GB,Gold,3,1380,08-01-2025,Credit Card,London,4140,4944.53,Below Average,Standard,Asia Pacific,5
+1278,Customer_278,USA,iPhone 14,128GB,Gold,3,1207,28-05-2025,Credit Card,New York,3621,4944.53,Below Average,Express,Asia Pacific,4
+1279,Customer_279,UK,iPhone 15,512GB,Purple,3,1298,05-01-2025,Credit Card,Birmingham,3894,4944.53,Below Average,Express,Europe,4
+1280,Customer_280,UK,iPhone 13,512GB,Blue,1,1128,18-02-2025,Debit Card,London,1128,4944.53,Below Average,Express,North America,3
+1281,Customer_281,USA,iPhone 15,512GB,Blue,2,948,28-04-2025,Credit Card,Chicago,1896,4944.53,Above Average,Same Day,Europe,5
+1282,Customer_282,Canada,iPhone 13,512GB,Black,1,1735,02-06-2025,PayPal,Montreal,1735,4944.53,Below Average,Express,North America,4
+1283,Customer_283,Canada,iPhone 14,256GB,Black,4,1995,30-04-2025,Credit Card,Vancouver,7980,4944.53,Above Average,Express,Europe,5
+1284,Customer_284,UK,iPhone 13,128GB,Gold,4,1742,29-05-2025,Debit Card,London,6968,4944.53,Below Average,Express,Europe,5
+1285,Customer_285,UK,iPhone 15,128GB,Gold,3,1333,02-01-2025,Credit Card,Birmingham,3999,4944.53,Above Average,Same Day,Asia Pacific,4
+1286,Customer_286,UK,iPhone 15,128GB,Purple,3,887,14-06-2025,Credit Card,Birmingham,2661,4944.53,Above Average,Same Day,Asia Pacific,4
+1287,Customer_287,UK,iPhone 15,512GB,Black,5,1853,08-05-2025,Credit Card,Birmingham,9265,4944.53,Above Average,Express,Europe,3
+1288,Customer_288,USA,iPhone 14,256GB,Blue,1,1927,10-01-2025,Credit Card,Los Angeles,1927,4944.53,Below Average,Express,Asia Pacific,5
+1289,Customer_289,UK,iPhone 15 Pro Max,128GB,White,1,911,13-06-2025,Debit Card,Manchester,911,4944.53,Below Average,Express,Europe,4
+1290,Customer_290,USA,iPhone 14,512GB,Purple,1,1843,11-04-2025,Debit Card,Chicago,1843,4944.53,Below Average,Same Day,North America,4
+1291,Customer_291,Canada,iPhone 15 Pro Max,256GB,White,2,1621,26-02-2025,Credit Card,Montreal,3242,4944.53,Below Average,Standard,Asia Pacific,5
+1292,Customer_292,USA,iPhone 13,512GB,White,3,1135,12-05-2025,Debit Card,Chicago,3405,4944.53,Below Average,Express,Europe,4
+1293,Customer_293,UK,iPhone 14,128GB,Purple,4,859,30-05-2025,Credit Card,Birmingham,3436,4944.53,Below Average,Express,Europe,4
+1294,Customer_294,USA,iPhone 15 Pro Max,256GB,Black,4,818,26-05-2025,PayPal,Los Angeles,3272,4944.53,Below Average,Standard,Asia Pacific,5
+1295,Customer_295,UK,iPhone 15 Pro Max,128GB,Black,1,1819,04-01-2025,PayPal,Birmingham,1819,4944.53,Above Average,Same Day,Europe,5
+1296,Customer_296,Canada,iPhone 15 Pro Max,128GB,White,1,1401,02-03-2025,Debit Card,Montreal,1401,4944.53,Below Average,Same Day,North America,5
+1297,Customer_297,USA,iPhone 12,512GB,Gold,5,1509,20-02-2025,Credit Card,Chicago,7545,4944.53,Above Average,Express,Asia Pacific,4
+1298,Customer_298,Canada,iPhone 15 Pro Max,256GB,Gold,5,848,10-04-2025,Debit Card,Montreal,4240,4944.53,Below Average,Express,Asia Pacific,5
+1299,Customer_299,Canada,iPhone 12,256GB,Black,1,1591,23-06-2025,Credit Card,Montreal,1591,4944.53,Above Average,Standard,North America,4
+1300,Customer_300,Canada,iPhone 14,512GB,White,4,1702,14-01-2025,Debit Card,Vancouver,6808,4944.53,Below Average,Express,Asia Pacific,4
+1301,Customer_301,USA,iPhone 15 Pro Max,512GB,White,4,1640,23-03-2025,Debit Card,New York,6560,4944.53,Above Average,Standard,North America,4
+1302,Customer_302,USA,iPhone 14,512GB,Gold,2,1471,19-06-2025,Debit Card,Los Angeles,2942,4944.53,Below Average,Express,North America,3
+1303,Customer_303,Canada,iPhone 13,128GB,Black,2,1954,27-05-2025,PayPal,Toronto,3908,4944.53,Above Average,Standard,North America,3
+1304,Customer_304,USA,iPhone 15,512GB,Blue,2,1428,12-03-2025,Debit Card,New York,2856,4944.53,Above Average,Standard,North America,3
+1305,Customer_305,USA,iPhone 14,128GB,Black,4,1753,17-01-2025,Debit Card,Chicago,7012,4944.53,Below Average,Express,Europe,4
+1306,Customer_306,USA,iPhone 12,256GB,Blue,5,821,08-04-2025,PayPal,Chicago,4105,4944.53,Above Average,Same Day,Europe,5
+1307,Customer_307,Canada,iPhone 14,512GB,Black,2,1410,01-02-2025,PayPal,Montreal,2820,4944.53,Above Average,Express,Asia Pacific,4
+1308,Customer_308,Canada,iPhone 15,256GB,Purple,5,878,05-05-2025,Credit Card,Montreal,4390,4944.53,Below Average,Express,Europe,3
+1309,Customer_309,UK,iPhone 12,256GB,White,1,1867,06-01-2025,PayPal,Manchester,1867,4944.53,Below Average,Same Day,North America,5
+1310,Customer_310,Canada,iPhone 14,512GB,White,3,1508,15-03-2025,Credit Card,Montreal,4524,4944.53,Below Average,Standard,North America,5
+1311,Customer_311,USA,iPhone 15,256GB,White,2,1353,10-05-2025,PayPal,Los Angeles,2706,4944.53,Below Average,Same Day,North America,5
+1312,Customer_312,UK,iPhone 12,128GB,Gold,3,839,09-06-2025,PayPal,Manchester,2517,4944.53,Above Average,Express,Europe,4
+1313,Customer_313,Canada,iPhone 12,512GB,Gold,1,1613,29-04-2025,Credit Card,Montreal,1613,4944.53,Above Average,Express,North America,4
+1314,Customer_314,Canada,iPhone 14,128GB,Black,3,1046,11-05-2025,Credit Card,Vancouver,3138,4944.53,Below Average,Standard,Europe,4
+1315,Customer_315,Canada,iPhone 15 Pro Max,128GB,Black,5,1026,26-04-2025,Debit Card,Vancouver,5130,4944.53,Below Average,Express,Asia Pacific,3
+1316,Customer_316,UK,iPhone 15 Pro Max,256GB,Purple,4,1256,17-03-2025,Debit Card,Manchester,5024,4944.53,Below Average,Standard,Europe,4
+1317,Customer_317,USA,iPhone 12,512GB,Blue,3,1345,27-02-2025,PayPal,New York,4035,4944.53,Above Average,Same Day,Europe,3
+1318,Customer_318,USA,iPhone 12,128GB,Blue,3,1730,07-03-2025,PayPal,Los Angeles,5190,4944.53,Below Average,Same Day,Asia Pacific,4
+1319,Customer_319,USA,iPhone 13,128GB,Gold,3,1315,26-02-2025,Credit Card,New York,3945,4944.53,Above Average,Express,Europe,3
+1320,Customer_320,UK,iPhone 13,512GB,Black,3,1644,14-05-2025,PayPal,London,4932,4944.53,Above Average,Same Day,Asia Pacific,5
+1321,Customer_321,Canada,iPhone 14,512GB,Purple,4,1300,25-03-2025,Credit Card,Vancouver,5200,4944.53,Above Average,Express,Europe,4
+1322,Customer_322,UK,iPhone 14,512GB,Blue,1,882,19-01-2025,Credit Card,Manchester,882,4944.53,Below Average,Standard,Asia Pacific,4
+1323,Customer_323,UK,iPhone 15,512GB,White,3,1432,22-05-2025,Debit Card,London,4296,4944.53,Above Average,Standard,North America,4
+1324,Customer_324,USA,iPhone 14,128GB,Purple,4,888,19-03-2025,Debit Card,New York,3552,4944.53,Above Average,Same Day,Europe,3
+1325,Customer_325,USA,iPhone 15 Pro Max,256GB,Black,1,1950,25-06-2025,Debit Card,Chicago,1950,4944.53,Below Average,Same Day,Asia Pacific,4
+1326,Customer_326,Canada,iPhone 15 Pro Max,128GB,Gold,5,1812,17-05-2025,PayPal,Toronto,9060,4944.53,Above Average,Express,North America,3
+1327,Customer_327,UK,iPhone 15,256GB,Black,4,1237,27-05-2025,Debit Card,Birmingham,4948,4944.53,Below Average,Standard,Europe,3
+1328,Customer_328,UK,iPhone 15 Pro Max,512GB,White,4,1304,24-02-2025,PayPal,Manchester,5216,4944.53,Below Average,Express,North America,5
+1329,Customer_329,Canada,iPhone 12,128GB,Black,2,1146,25-05-2025,Credit Card,Vancouver,2292,4944.53,Below Average,Express,Europe,5
+1330,Customer_330,UK,iPhone 15 Pro Max,128GB,Black,1,1240,09-04-2025,Debit Card,Manchester,1240,4944.53,Above Average,Standard,North America,3
+1331,Customer_331,USA,iPhone 14,128GB,Blue,1,1680,08-02-2025,Credit Card,Chicago,1680,4944.53,Above Average,Standard,Europe,4
+1332,Customer_332,UK,iPhone 12,128GB,Gold,1,1616,20-02-2025,PayPal,Manchester,1616,4944.53,Above Average,Same Day,North America,5
+1333,Customer_333,USA,iPhone 15 Pro Max,512GB,Gold,3,1706,01-01-2025,PayPal,Los Angeles,5118,4944.53,Below Average,Standard,North America,3
+1334,Customer_334,USA,iPhone 15,256GB,Gold,5,1401,08-01-2025,Credit Card,New York,7005,4944.53,Above Average,Express,Asia Pacific,4
+1335,Customer_335,USA,iPhone 13,256GB,White,1,1649,10-06-2025,PayPal,Los Angeles,1649,4944.53,Below Average,Express,North America,5
+1336,Customer_336,UK,iPhone 13,512GB,Black,1,1131,16-06-2025,Debit Card,London,1131,4944.53,Above Average,Standard,North America,4
+1337,Customer_337,Canada,iPhone 13,512GB,Black,3,1709,01-05-2025,PayPal,Montreal,5127,4944.53,Below Average,Same Day,Europe,5
+1338,Customer_338,USA,iPhone 13,128GB,Black,5,1186,12-01-2025,PayPal,Chicago,5930,4944.53,Above Average,Standard,Asia Pacific,3
+1339,Customer_339,UK,iPhone 12,512GB,Black,5,1373,23-01-2025,Credit Card,Manchester,6865,4944.53,Below Average,Standard,Europe,5
+1340,Customer_340,Canada,iPhone 12,128GB,Blue,5,1174,30-01-2025,Debit Card,Montreal,5870,4944.53,Below Average,Same Day,Asia Pacific,5
+1341,Customer_341,USA,iPhone 13,512GB,Black,3,1359,28-04-2025,Credit Card,Los Angeles,4077,4944.53,Below Average,Same Day,Europe,3
+1342,Customer_342,UK,iPhone 15,512GB,Gold,1,1358,26-05-2025,PayPal,London,1358,4944.53,Above Average,Same Day,Asia Pacific,5
+1343,Customer_343,Canada,iPhone 15 Pro Max,256GB,White,1,1680,06-03-2025,PayPal,Montreal,1680,4944.53,Below Average,Standard,North America,4
+1344,Customer_344,USA,iPhone 15 Pro Max,256GB,Purple,3,874,23-06-2025,Debit Card,Chicago,2622,4944.53,Above Average,Same Day,Europe,5
+1345,Customer_345,Canada,iPhone 15 Pro Max,256GB,Blue,3,924,02-05-2025,Credit Card,Vancouver,2772,4944.53,Above Average,Express,North America,5
+1346,Customer_346,UK,iPhone 15,128GB,Black,4,1585,29-01-2025,Credit Card,Manchester,6340,4944.53,Above Average,Same Day,Europe,3
+1347,Customer_347,USA,iPhone 15 Pro Max,128GB,Black,4,1892,21-05-2025,Debit Card,Chicago,7568,4944.53,Above Average,Express,North America,5
+1348,Customer_348,UK,iPhone 14,256GB,Black,3,1932,26-03-2025,Debit Card,Birmingham,5796,4944.53,Above Average,Standard,Asia Pacific,5
+1349,Customer_349,UK,iPhone 15 Pro Max,512GB,Blue,4,1282,19-05-2025,PayPal,London,5128,4944.53,Above Average,Standard,Asia Pacific,4
+1350,Customer_350,Canada,iPhone 15 Pro Max,512GB,Gold,2,1586,08-01-2025,Credit Card,Toronto,3172,4944.53,Above Average,Standard,Europe,5
+1351,Customer_351,UK,iPhone 15 Pro Max,512GB,White,5,1066,29-05-2025,Debit Card,Birmingham,5330,4944.53,Above Average,Same Day,North America,3
+1352,Customer_352,USA,iPhone 14,256GB,White,2,1682,21-02-2025,Debit Card,Chicago,3364,4944.53,Above Average,Same Day,Europe,4
+1353,Customer_353,UK,iPhone 12,512GB,Blue,3,1514,28-06-2025,Credit Card,London,4542,4944.53,Below Average,Same Day,Europe,5
+1354,Customer_354,UK,iPhone 15 Pro Max,512GB,Black,4,1702,13-03-2025,Credit Card,Birmingham,6808,4944.53,Above Average,Standard,North America,3
+1355,Customer_355,UK,iPhone 15 Pro Max,128GB,Gold,3,1242,31-01-2025,PayPal,Birmingham,3726,4944.53,Below Average,Express,Europe,3
+1356,Customer_356,Canada,iPhone 13,256GB,Gold,3,1705,18-06-2025,PayPal,Montreal,5115,4944.53,Below Average,Express,North America,4
+1357,Customer_357,UK,iPhone 13,128GB,Purple,3,1063,06-03-2025,Credit Card,Birmingham,3189,4944.53,Above Average,Standard,Asia Pacific,3
+1358,Customer_358,USA,iPhone 12,512GB,Black,4,1951,13-06-2025,PayPal,New York,7804,4944.53,Below Average,Same Day,Asia Pacific,3
+1359,Customer_359,Canada,iPhone 14,512GB,Purple,4,1213,22-05-2025,Credit Card,Vancouver,4852,4944.53,Above Average,Express,North America,3
+1360,Customer_360,UK,iPhone 12,512GB,Blue,2,1735,04-05-2025,Debit Card,Birmingham,3470,4944.53,Below Average,Express,Europe,4
+1361,Customer_361,USA,iPhone 14,512GB,Purple,4,1094,28-04-2025,Credit Card,Los Angeles,4376,4944.53,Above Average,Standard,Asia Pacific,3
+1362,Customer_362,USA,iPhone 15 Pro Max,512GB,Gold,5,1580,19-01-2025,Credit Card,New York,7900,4944.53,Above Average,Express,Asia Pacific,3
+1363,Customer_363,UK,iPhone 15,256GB,White,2,1833,28-05-2025,Debit Card,Birmingham,3666,4944.53,Below Average,Express,Europe,3
+1364,Customer_364,UK,iPhone 13,512GB,Blue,4,1882,23-03-2025,Debit Card,Manchester,7528,4944.53,Above Average,Same Day,North America,3
+1365,Customer_365,UK,iPhone 15 Pro Max,256GB,Blue,1,1817,06-04-2025,Debit Card,London,1817,4944.53,Below Average,Standard,Asia Pacific,4
+1366,Customer_366,USA,iPhone 12,128GB,White,5,1739,19-05-2025,Credit Card,Chicago,8695,4944.53,Above Average,Same Day,Asia Pacific,3
+1367,Customer_367,UK,iPhone 13,512GB,Purple,4,1411,21-05-2025,PayPal,Manchester,5644,4944.53,Above Average,Express,Asia Pacific,3
+1368,Customer_368,USA,iPhone 15,512GB,Black,2,1728,30-04-2025,PayPal,Chicago,3456,4944.53,Below Average,Same Day,Asia Pacific,3
+1369,Customer_369,USA,iPhone 12,512GB,Black,5,1924,24-06-2025,Credit Card,Los Angeles,9620,4944.53,Below Average,Standard,North America,5
+1370,Customer_370,UK,iPhone 15 Pro Max,256GB,White,2,1712,10-02-2025,PayPal,London,3424,4944.53,Above Average,Express,Europe,5
+1371,Customer_371,USA,iPhone 13,128GB,Gold,1,1836,10-04-2025,PayPal,Los Angeles,1836,4944.53,Below Average,Standard,North America,4
+1372,Customer_372,UK,iPhone 15 Pro Max,512GB,Gold,1,1923,11-06-2025,Credit Card,Manchester,1923,4944.53,Below Average,Same Day,Europe,5
+1373,Customer_373,Canada,iPhone 12,128GB,White,4,1287,13-01-2025,Credit Card,Toronto,5148,4944.53,Above Average,Express,Europe,4
+1374,Customer_374,USA,iPhone 15 Pro Max,128GB,Blue,5,1357,22-03-2025,Debit Card,Los Angeles,6785,4944.53,Below Average,Same Day,North America,5
+1375,Customer_375,UK,iPhone 15 Pro Max,512GB,Black,1,1683,02-05-2025,Debit Card,Manchester,1683,4944.53,Below Average,Standard,Asia Pacific,5
+1376,Customer_376,USA,iPhone 12,256GB,Gold,4,974,14-05-2025,PayPal,Chicago,3896,4944.53,Below Average,Standard,North America,3
+1377,Customer_377,UK,iPhone 14,128GB,White,4,811,15-05-2025,PayPal,Manchester,3244,4944.53,Above Average,Standard,Asia Pacific,3
+1378,Customer_378,UK,iPhone 15,512GB,Gold,5,1882,06-06-2025,Debit Card,London,9410,4944.53,Below Average,Standard,Asia Pacific,5
+1379,Customer_379,Canada,iPhone 15 Pro Max,256GB,Purple,1,1430,23-05-2025,Debit Card,Vancouver,1430,4944.53,Above Average,Standard,Asia Pacific,4
+1380,Customer_380,UK,iPhone 12,256GB,Purple,1,825,14-02-2025,PayPal,Manchester,825,4944.53,Above Average,Standard,North America,5
+1381,Customer_381,UK,iPhone 15,256GB,White,3,1872,26-02-2025,PayPal,Birmingham,5616,4944.53,Above Average,Standard,Europe,4
+1382,Customer_382,Canada,iPhone 15,128GB,Purple,2,804,23-02-2025,Credit Card,Toronto,1608,4944.53,Below Average,Express,Asia Pacific,4
+1383,Customer_383,UK,iPhone 15 Pro Max,256GB,Blue,2,1076,19-03-2025,Debit Card,London,2152,4944.53,Below Average,Standard,Asia Pacific,4
+1384,Customer_384,UK,iPhone 15,128GB,Purple,5,1319,18-04-2025,Credit Card,Manchester,6595,4944.53,Above Average,Same Day,North America,4
+1385,Customer_385,UK,iPhone 15,512GB,White,4,1071,17-02-2025,PayPal,Birmingham,4284,4944.53,Below Average,Express,North America,5
+1386,Customer_386,USA,iPhone 13,256GB,White,2,1842,18-04-2025,PayPal,New York,3684,4944.53,Above Average,Same Day,North America,4
+1387,Customer_387,USA,iPhone 13,256GB,Gold,3,1044,16-04-2025,Debit Card,Los Angeles,3132,4944.53,Below Average,Same Day,Europe,3
+1388,Customer_388,UK,iPhone 15,256GB,Gold,1,986,27-03-2025,Credit Card,Birmingham,986,4944.53,Above Average,Express,North America,4
+1389,Customer_389,UK,iPhone 15,256GB,Purple,5,969,22-01-2025,Credit Card,Birmingham,4845,4944.53,Above Average,Standard,North America,5
+1390,Customer_390,USA,iPhone 12,256GB,Purple,2,1539,03-02-2025,PayPal,New York,3078,4944.53,Above Average,Standard,North America,5
+1391,Customer_391,USA,iPhone 15 Pro Max,256GB,Purple,4,1203,09-04-2025,Credit Card,Los Angeles,4812,4944.53,Above Average,Same Day,Europe,4
+1392,Customer_392,USA,iPhone 15 Pro Max,128GB,Purple,5,915,23-03-2025,Credit Card,Chicago,4575,4944.53,Below Average,Standard,Europe,4
+1393,Customer_393,USA,iPhone 14,128GB,Black,2,1114,13-05-2025,Debit Card,Los Angeles,2228,4944.53,Above Average,Standard,Europe,4
+1394,Customer_394,USA,iPhone 14,512GB,Gold,5,1508,09-04-2025,Debit Card,New York,7540,4944.53,Above Average,Same Day,North America,5
+1395,Customer_395,UK,iPhone 15 Pro Max,128GB,White,2,1351,23-01-2025,Debit Card,Birmingham,2702,4944.53,Below Average,Same Day,Europe,3
+1396,Customer_396,USA,iPhone 15,256GB,Black,3,911,09-03-2025,Debit Card,New York,2733,4944.53,Above Average,Same Day,North America,3
+1397,Customer_397,UK,iPhone 15 Pro Max,256GB,Gold,3,839,24-01-2025,Debit Card,Birmingham,2517,4944.53,Below Average,Same Day,Europe,3
+1398,Customer_398,USA,iPhone 15 Pro Max,128GB,Gold,5,1427,03-03-2025,Credit Card,Los Angeles,7135,4944.53,Above Average,Standard,North America,4
+1399,Customer_399,Canada,iPhone 15 Pro Max,128GB,White,1,1479,03-01-2025,PayPal,Toronto,1479,4944.53,Below Average,Same Day,Europe,5
+1400,Customer_400,UK,iPhone 15 Pro Max,128GB,Purple,1,1105,28-06-2025,Debit Card,Birmingham,1105,4944.53,Above Average,Express,Asia Pacific,5
+1401,Customer_401,Canada,iPhone 15 Pro Max,128GB,Purple,5,1109,31-01-2025,Debit Card,Montreal,5545,4944.53,Below Average,Same Day,Europe,5
+1402,Customer_402,Canada,iPhone 12,128GB,White,1,809,17-02-2025,PayPal,Toronto,809,4944.53,Above Average,Same Day,North America,3
+1403,Customer_403,Canada,iPhone 15,128GB,Black,1,1362,07-05-2025,Debit Card,Toronto,1362,4944.53,Below Average,Same Day,Asia Pacific,5
+1404,Customer_404,Canada,iPhone 15 Pro Max,256GB,Black,2,966,22-03-2025,Debit Card,Toronto,1932,4944.53,Above Average,Standard,North America,3
+1405,Customer_405,USA,iPhone 14,128GB,Black,4,1044,17-03-2025,PayPal,Chicago,4176,4944.53,Above Average,Same Day,North America,3
+1406,Customer_406,UK,iPhone 15,256GB,Black,4,1663,24-03-2025,PayPal,Manchester,6652,4944.53,Below Average,Same Day,Europe,4
+1407,Customer_407,USA,iPhone 15,512GB,Gold,2,1500,24-03-2025,Debit Card,Chicago,3000,4944.53,Above Average,Standard,North America,5
+1408,Customer_408,USA,iPhone 15 Pro Max,256GB,Purple,5,1082,27-05-2025,PayPal,New York,5410,4944.53,Above Average,Express,North America,5
+1409,Customer_409,UK,iPhone 15 Pro Max,512GB,Purple,3,1112,24-04-2025,PayPal,Manchester,3336,4944.53,Above Average,Same Day,Europe,3
+1410,Customer_410,USA,iPhone 15 Pro Max,512GB,White,5,1130,25-05-2025,Debit Card,Chicago,5650,4944.53,Above Average,Standard,North America,4
+1411,Customer_411,USA,iPhone 13,128GB,Purple,3,1856,03-05-2025,Debit Card,Chicago,5568,4944.53,Below Average,Same Day,Asia Pacific,3
+1412,Customer_412,USA,iPhone 15 Pro Max,128GB,Blue,3,927,04-03-2025,Debit Card,Chicago,2781,4944.53,Above Average,Standard,Europe,4
+1413,Customer_413,USA,iPhone 13,128GB,White,1,1121,03-03-2025,Credit Card,Chicago,1121,4944.53,Above Average,Express,Europe,3
+1414,Customer_414,USA,iPhone 14,256GB,Blue,1,1818,30-03-2025,PayPal,Los Angeles,1818,4944.53,Below Average,Express,Europe,4
+1415,Customer_415,Canada,iPhone 15 Pro Max,512GB,White,3,1018,10-02-2025,Debit Card,Vancouver,3054,4944.53,Below Average,Same Day,Asia Pacific,5
+1416,Customer_416,Canada,iPhone 14,256GB,Purple,5,1601,10-01-2025,Credit Card,Vancouver,8005,4944.53,Above Average,Express,North America,5
+1417,Customer_417,UK,iPhone 14,256GB,Black,5,1888,10-01-2025,Credit Card,Manchester,9440,4944.53,Above Average,Same Day,Europe,5
+1418,Customer_418,USA,iPhone 12,128GB,White,4,1409,23-04-2025,Credit Card,Los Angeles,5636,4944.53,Below Average,Same Day,North America,3
+1419,Customer_419,UK,iPhone 15 Pro Max,256GB,Blue,2,1896,09-06-2025,Debit Card,London,3792,4944.53,Below Average,Express,North America,4
+1420,Customer_420,Canada,iPhone 12,512GB,White,2,1950,03-04-2025,PayPal,Montreal,3900,4944.53,Above Average,Same Day,Europe,5
+1421,Customer_421,USA,iPhone 13,256GB,White,1,1864,17-06-2025,PayPal,Los Angeles,1864,4944.53,Above Average,Standard,Asia Pacific,5
+1422,Customer_422,UK,iPhone 14,256GB,Purple,1,868,02-03-2025,Debit Card,Birmingham,868,4944.53,Above Average,Express,Europe,3
+1423,Customer_423,UK,iPhone 14,512GB,Gold,2,1438,23-06-2025,PayPal,Manchester,2876,4944.53,Below Average,Express,North America,5
+1424,Customer_424,UK,iPhone 13,128GB,Black,3,1293,14-05-2025,PayPal,Manchester,3879,4944.53,Above Average,Same Day,North America,3
+1425,Customer_425,Canada,iPhone 14,128GB,Blue,1,1367,27-02-2025,PayPal,Toronto,1367,4944.53,Above Average,Express,Europe,4
+1426,Customer_426,UK,iPhone 14,256GB,Black,4,862,04-01-2025,Debit Card,London,3448,4944.53,Below Average,Same Day,North America,5
+1427,Customer_427,Canada,iPhone 14,256GB,Blue,1,1622,01-05-2025,Credit Card,Montreal,1622,4944.53,Below Average,Express,North America,3
+1428,Customer_428,USA,iPhone 15 Pro Max,256GB,Purple,2,1659,19-04-2025,PayPal,New York,3318,4944.53,Below Average,Same Day,Asia Pacific,3
+1429,Customer_429,USA,iPhone 15 Pro Max,512GB,Blue,2,1076,21-02-2025,Credit Card,Los Angeles,2152,4944.53,Above Average,Same Day,Europe,5
+1430,Customer_430,USA,iPhone 12,128GB,Gold,2,1113,02-03-2025,Credit Card,Chicago,2226,4944.53,Below Average,Same Day,North America,5
+1431,Customer_431,UK,iPhone 15 Pro Max,256GB,Black,1,1429,17-03-2025,PayPal,Manchester,1429,4944.53,Below Average,Same Day,Europe,3
+1432,Customer_432,UK,iPhone 15,512GB,Gold,1,1452,25-05-2025,PayPal,Manchester,1452,4944.53,Below Average,Standard,Europe,3
+1433,Customer_433,Canada,iPhone 14,256GB,Purple,1,1520,02-05-2025,Debit Card,Vancouver,1520,4944.53,Above Average,Same Day,Europe,3
+1434,Customer_434,Canada,iPhone 15,512GB,Gold,3,917,17-05-2025,PayPal,Montreal,2751,4944.53,Above Average,Express,North America,5
+1435,Customer_435,UK,iPhone 15 Pro Max,256GB,Blue,2,1248,21-05-2025,Debit Card,Manchester,2496,4944.53,Above Average,Express,North America,5
+1436,Customer_436,USA,iPhone 15 Pro Max,128GB,Blue,5,1631,17-01-2025,PayPal,New York,8155,4944.53,Above Average,Standard,Europe,3
+1437,Customer_437,UK,iPhone 15 Pro Max,128GB,Black,2,1616,03-03-2025,Credit Card,Birmingham,3232,4944.53,Above Average,Standard,Asia Pacific,3
+1438,Customer_438,UK,iPhone 13,128GB,White,5,1215,14-03-2025,Credit Card,Birmingham,6075,4944.53,Above Average,Standard,Europe,3
+1439,Customer_439,UK,iPhone 15 Pro Max,512GB,Purple,1,1517,18-06-2025,Credit Card,Birmingham,1517,4944.53,Above Average,Same Day,Asia Pacific,3
+1440,Customer_440,Canada,iPhone 14,256GB,White,1,1457,14-04-2025,PayPal,Vancouver,1457,4944.53,Below Average,Standard,North America,3
+1441,Customer_441,Canada,iPhone 15,128GB,Purple,5,1356,08-03-2025,PayPal,Vancouver,6780,4944.53,Above Average,Express,Europe,5
+1442,Customer_442,UK,iPhone 13,512GB,Purple,4,1642,06-04-2025,PayPal,Manchester,6568,4944.53,Below Average,Same Day,Europe,4
+1443,Customer_443,USA,iPhone 15,256GB,Gold,4,1470,17-02-2025,Credit Card,New York,5880,4944.53,Below Average,Standard,Europe,4
+1444,Customer_444,USA,iPhone 14,128GB,Purple,2,1284,12-03-2025,Credit Card,New York,2568,4944.53,Above Average,Express,North America,4
+1445,Customer_445,USA,iPhone 15,256GB,Gold,3,1657,03-03-2025,Debit Card,Los Angeles,4971,4944.53,Below Average,Express,North America,3
+1446,Customer_446,UK,iPhone 15 Pro Max,512GB,Blue,3,1863,04-04-2025,Debit Card,Manchester,5589,4944.53,Below Average,Express,Asia Pacific,5
+1447,Customer_447,USA,iPhone 14,256GB,Blue,2,1195,03-03-2025,Credit Card,Chicago,2390,4944.53,Below Average,Express,Europe,3
+1448,Customer_448,UK,iPhone 12,256GB,Gold,3,860,05-06-2025,Credit Card,Birmingham,2580,4944.53,Below Average,Express,North America,5
+1449,Customer_449,UK,iPhone 15 Pro Max,512GB,White,2,1798,23-01-2025,PayPal,Manchester,3596,4944.53,Below Average,Express,North America,3
+1450,Customer_450,USA,iPhone 14,512GB,Gold,5,1204,01-03-2025,Debit Card,New York,6020,4944.53,Below Average,Express,North America,4
+1451,Customer_451,UK,iPhone 15 Pro Max,256GB,Blue,5,1254,02-01-2025,PayPal,Birmingham,6270,4944.53,Above Average,Express,North America,4
+1452,Customer_452,UK,iPhone 14,128GB,Blue,5,1598,19-04-2025,PayPal,Birmingham,7990,4944.53,Above Average,Same Day,Asia Pacific,3
+1453,Customer_453,USA,iPhone 14,512GB,Gold,3,1811,07-06-2025,PayPal,New York,5433,4944.53,Below Average,Standard,Asia Pacific,4
+1454,Customer_454,Canada,iPhone 15,512GB,Purple,2,1791,09-04-2025,PayPal,Montreal,3582,4944.53,Below Average,Standard,North America,3
+1455,Customer_455,Canada,iPhone 15 Pro Max,128GB,Purple,1,867,20-06-2025,Debit Card,Montreal,867,4944.53,Below Average,Standard,Asia Pacific,3
+1456,Customer_456,UK,iPhone 15,128GB,Purple,3,1793,13-05-2025,PayPal,Birmingham,5379,4944.53,Above Average,Express,Europe,3
+1457,Customer_457,Canada,iPhone 14,512GB,Gold,1,1837,26-05-2025,PayPal,Vancouver,1837,4944.53,Above Average,Express,Europe,5
+1458,Customer_458,UK,iPhone 12,128GB,Blue,4,1370,30-05-2025,PayPal,London,5480,4944.53,Above Average,Same Day,North America,5
+1459,Customer_459,Canada,iPhone 12,128GB,Blue,2,1742,28-05-2025,Debit Card,Vancouver,3484,4944.53,Below Average,Standard,Asia Pacific,5
+1460,Customer_460,UK,iPhone 15,256GB,Purple,4,1941,05-06-2025,Debit Card,Birmingham,7764,4944.53,Below Average,Standard,North America,4
+1461,Customer_461,USA,iPhone 14,256GB,White,2,1675,08-01-2025,Credit Card,New York,3350,4944.53,Below Average,Express,Europe,3
+1462,Customer_462,UK,iPhone 15 Pro Max,512GB,Purple,3,1318,29-03-2025,PayPal,Manchester,3954,4944.53,Above Average,Same Day,Asia Pacific,3
+1463,Customer_463,Canada,iPhone 15 Pro Max,256GB,White,1,1406,04-05-2025,PayPal,Toronto,1406,4944.53,Above Average,Same Day,North America,3
+1464,Customer_464,Canada,iPhone 14,256GB,Blue,5,1293,12-03-2025,Debit Card,Vancouver,6465,4944.53,Below Average,Same Day,Europe,4
+1465,Customer_465,Canada,iPhone 14,128GB,Black,5,1907,09-02-2025,PayPal,Montreal,9535,4944.53,Below Average,Same Day,Europe,3
+1466,Customer_466,Canada,iPhone 15,128GB,Gold,4,1872,05-02-2025,Credit Card,Vancouver,7488,4944.53,Below Average,Express,Asia Pacific,4
+1467,Customer_467,Canada,iPhone 14,256GB,Gold,2,830,10-01-2025,Debit Card,Montreal,1660,4944.53,Below Average,Same Day,Europe,5
+1468,Customer_468,USA,iPhone 13,128GB,Blue,2,1624,09-01-2025,Debit Card,New York,3248,4944.53,Above Average,Standard,Europe,5
+1469,Customer_469,USA,iPhone 15 Pro Max,128GB,Black,2,1630,09-02-2025,Debit Card,Los Angeles,3260,4944.53,Above Average,Standard,Europe,3
+1470,Customer_470,USA,iPhone 14,512GB,Black,4,1861,17-02-2025,Debit Card,Los Angeles,7444,4944.53,Below Average,Same Day,Asia Pacific,5
+1471,Customer_471,USA,iPhone 12,128GB,Gold,5,1676,14-05-2025,PayPal,Chicago,8380,4944.53,Above Average,Standard,Europe,4
+1472,Customer_472,UK,iPhone 12,128GB,Purple,4,1895,15-06-2025,Credit Card,Manchester,7580,4944.53,Below Average,Same Day,Asia Pacific,3
+1473,Customer_473,Canada,iPhone 12,256GB,Purple,5,1221,18-05-2025,PayPal,Vancouver,6105,4944.53,Below Average,Same Day,North America,5
+1474,Customer_474,UK,iPhone 12,512GB,Black,5,1107,31-01-2025,Debit Card,London,5535,4944.53,Above Average,Express,Asia Pacific,5
+1475,Customer_475,Canada,iPhone 13,256GB,Black,5,1438,20-01-2025,Credit Card,Toronto,7190,4944.53,Above Average,Express,North America,3
+1476,Customer_476,UK,iPhone 13,512GB,Gold,1,1881,23-01-2025,Debit Card,London,1881,4944.53,Below Average,Same Day,Europe,5
+1477,Customer_477,UK,iPhone 12,128GB,Blue,5,955,25-05-2025,Debit Card,London,4775,4944.53,Above Average,Standard,Europe,3
+1478,Customer_478,Canada,iPhone 14,128GB,Gold,2,1580,22-04-2025,PayPal,Vancouver,3160,4944.53,Above Average,Same Day,Asia Pacific,3
+1479,Customer_479,Canada,iPhone 15,256GB,Black,5,1270,26-02-2025,Credit Card,Montreal,6350,4944.53,Below Average,Same Day,North America,5
+1480,Customer_480,UK,iPhone 12,128GB,Black,1,939,16-05-2025,PayPal,Manchester,939,4944.53,Below Average,Standard,Asia Pacific,4
+1481,Customer_481,Canada,iPhone 14,512GB,Black,3,1414,09-06-2025,Debit Card,Montreal,4242,4944.53,Above Average,Standard,North America,5
+1482,Customer_482,Canada,iPhone 15 Pro Max,128GB,Purple,2,1413,23-02-2025,Credit Card,Vancouver,2826,4944.53,Above Average,Same Day,Asia Pacific,5
+1483,Customer_483,USA,iPhone 14,512GB,White,3,1886,17-01-2025,Debit Card,New York,5658,4944.53,Above Average,Express,Europe,4
+1484,Customer_484,UK,iPhone 14,256GB,Gold,3,976,21-02-2025,Debit Card,London,2928,4944.53,Below Average,Standard,North America,5
+1485,Customer_485,Canada,iPhone 14,256GB,Purple,2,1051,28-01-2025,Credit Card,Montreal,2102,4944.53,Below Average,Express,North America,5
+1486,Customer_486,Canada,iPhone 12,512GB,White,4,1722,31-01-2025,PayPal,Vancouver,6888,4944.53,Below Average,Standard,North America,5
+1487,Customer_487,Canada,iPhone 13,128GB,Blue,2,1719,28-05-2025,Debit Card,Montreal,3438,4944.53,Above Average,Same Day,North America,5
+1488,Customer_488,Canada,iPhone 14,128GB,Gold,1,1070,13-02-2025,Debit Card,Montreal,1070,4944.53,Above Average,Express,Asia Pacific,5
+1489,Customer_489,Canada,iPhone 12,256GB,Black,4,886,07-03-2025,Debit Card,Montreal,3544,4944.53,Above Average,Express,North America,3
+1490,Customer_490,USA,iPhone 15 Pro Max,128GB,White,5,1245,07-02-2025,Credit Card,Chicago,6225,4944.53,Above Average,Express,Europe,4
+1491,Customer_491,UK,iPhone 12,256GB,Gold,1,1588,11-03-2025,Credit Card,Manchester,1588,4944.53,Above Average,Same Day,Asia Pacific,5
+1492,Customer_492,Canada,iPhone 14,256GB,Blue,4,1538,30-03-2025,Credit Card,Toronto,6152,4944.53,Below Average,Same Day,Asia Pacific,3
+1493,Customer_493,USA,iPhone 15 Pro Max,512GB,Gold,5,1110,12-04-2025,Credit Card,Chicago,5550,4944.53,Above Average,Standard,Asia Pacific,4
+1494,Customer_494,USA,iPhone 15,512GB,Blue,3,907,03-05-2025,PayPal,Los Angeles,2721,4944.53,Below Average,Standard,North America,4
+1495,Customer_495,Canada,iPhone 13,128GB,Blue,1,1414,31-01-2025,Credit Card,Vancouver,1414,4944.53,Below Average,Standard,Asia Pacific,4
+1496,Customer_496,USA,iPhone 13,256GB,Blue,1,1560,29-05-2025,PayPal,Los Angeles,1560,4944.53,Above Average,Express,Europe,5
+1497,Customer_497,USA,iPhone 13,128GB,Black,1,1328,15-06-2025,Credit Card,Chicago,1328,4944.53,Below Average,Express,North America,4
+1498,Customer_498,UK,iPhone 15 Pro Max,512GB,Gold,5,1454,08-06-2025,Credit Card,Manchester,7270,4944.53,Below Average,Same Day,Europe,3
+1499,Customer_499,Canada,iPhone 12,256GB,Blue,1,1206,16-02-2025,Credit Card,Vancouver,1206,4944.53,Below Average,Express,Europe,5
+1500,Customer_500,Canada,iPhone 12,256GB,Gold,4,1584,15-05-2025,PayPal,Vancouver,6336,4944.53,Above Average,Same Day,Asia Pacific,5
+1501,Customer_501,UK,iPhone 14,512GB,Blue,1,1218,25-06-2025,Credit Card,Birmingham,1218,4944.53,Above Average,Standard,Asia Pacific,5
+1502,Customer_502,Canada,iPhone 15,128GB,Blue,3,1599,08-05-2025,Debit Card,Toronto,4797,4944.53,Above Average,Same Day,Asia Pacific,4
+1503,Customer_503,UK,iPhone 13,128GB,Blue,4,1228,31-01-2025,PayPal,Manchester,4912,4944.53,Below Average,Same Day,Asia Pacific,5
+1504,Customer_504,USA,iPhone 15,512GB,Blue,5,1761,05-05-2025,Credit Card,Los Angeles,8805,4944.53,Below Average,Same Day,Europe,4
+1505,Customer_505,Canada,iPhone 15,256GB,Purple,2,1532,06-05-2025,Credit Card,Vancouver,3064,4944.53,Above Average,Standard,Europe,4
+1506,Customer_506,Canada,iPhone 15 Pro Max,512GB,Blue,4,1827,26-05-2025,PayPal,Toronto,7308,4944.53,Below Average,Express,North America,3
+1507,Customer_507,Canada,iPhone 14,256GB,Purple,3,1246,12-02-2025,Credit Card,Vancouver,3738,4944.53,Below Average,Same Day,North America,3
+1508,Customer_508,UK,iPhone 14,128GB,Purple,3,949,03-01-2025,Credit Card,London,2847,4944.53,Below Average,Same Day,Europe,3
+1509,Customer_509,Canada,iPhone 13,512GB,Gold,3,1640,24-06-2025,Credit Card,Toronto,4920,4944.53,Above Average,Same Day,Europe,3
+1510,Customer_510,Canada,iPhone 13,128GB,Blue,1,1517,04-04-2025,PayPal,Toronto,1517,4944.53,Above Average,Standard,North America,4
+1511,Customer_511,UK,iPhone 14,512GB,Gold,2,898,29-05-2025,Debit Card,Manchester,1796,4944.53,Above Average,Same Day,Asia Pacific,3
+1512,Customer_512,Canada,iPhone 13,256GB,Purple,4,920,16-03-2025,Credit Card,Vancouver,3680,4944.53,Above Average,Express,Asia Pacific,3
+1513,Customer_513,UK,iPhone 13,128GB,White,1,1290,10-05-2025,Debit Card,Manchester,1290,4944.53,Above Average,Same Day,Asia Pacific,5
+1514,Customer_514,UK,iPhone 15 Pro Max,256GB,Purple,4,811,17-01-2025,PayPal,Birmingham,3244,4944.53,Above Average,Standard,North America,3
+1515,Customer_515,Canada,iPhone 15,128GB,Blue,5,1998,12-03-2025,Credit Card,Vancouver,9990,4944.53,Below Average,Standard,North America,3
+1516,Customer_516,UK,iPhone 13,128GB,Gold,4,1260,27-01-2025,PayPal,Birmingham,5040,4944.53,Below Average,Standard,North America,4
+1517,Customer_517,UK,iPhone 15,256GB,Gold,2,1764,19-01-2025,PayPal,Manchester,3528,4944.53,Below Average,Standard,Asia Pacific,4
+1518,Customer_518,Canada,iPhone 15,512GB,White,4,1333,14-03-2025,PayPal,Toronto,5332,4944.53,Above Average,Same Day,Europe,4
+1519,Customer_519,UK,iPhone 12,256GB,Blue,1,947,05-01-2025,PayPal,Birmingham,947,4944.53,Below Average,Same Day,North America,4
+1520,Customer_520,Canada,iPhone 13,128GB,Blue,4,1388,05-04-2025,PayPal,Toronto,5552,4944.53,Below Average,Same Day,Europe,4
+1521,Customer_521,UK,iPhone 14,512GB,Gold,1,1214,01-02-2025,Debit Card,Birmingham,1214,4944.53,Above Average,Express,Europe,4
+1522,Customer_522,USA,iPhone 14,128GB,Purple,5,1726,29-04-2025,Credit Card,Chicago,8630,4944.53,Below Average,Same Day,Europe,5
+1523,Customer_523,Canada,iPhone 12,512GB,White,1,1791,16-04-2025,PayPal,Montreal,1791,4944.53,Below Average,Express,Asia Pacific,4
+1524,Customer_524,UK,iPhone 14,512GB,Blue,3,1292,27-01-2025,Credit Card,Manchester,3876,4944.53,Below Average,Express,North America,4
+1525,Customer_525,Canada,iPhone 15 Pro Max,256GB,White,4,1919,11-02-2025,Credit Card,Vancouver,7676,4944.53,Above Average,Standard,Europe,4
+1526,Customer_526,UK,iPhone 15,256GB,Purple,5,984,27-01-2025,Credit Card,London,4920,4944.53,Below Average,Express,Europe,3
+1527,Customer_527,Canada,iPhone 13,128GB,Blue,4,1000,25-06-2025,PayPal,Toronto,4000,4944.53,Below Average,Express,North America,5
+1528,Customer_528,Canada,iPhone 13,128GB,White,2,1368,11-04-2025,Credit Card,Montreal,2736,4944.53,Above Average,Standard,Europe,4
+1529,Customer_529,Canada,iPhone 13,256GB,White,2,1473,22-06-2025,Debit Card,Toronto,2946,4944.53,Below Average,Same Day,North America,3
+1530,Customer_530,USA,iPhone 13,256GB,Purple,4,947,31-05-2025,Credit Card,New York,3788,4944.53,Above Average,Same Day,North America,3
+1531,Customer_531,UK,iPhone 12,128GB,Gold,4,1711,15-02-2025,PayPal,Manchester,6844,4944.53,Below Average,Standard,North America,4
+1532,Customer_532,UK,iPhone 14,512GB,Purple,5,908,20-03-2025,PayPal,Manchester,4540,4944.53,Above Average,Standard,Asia Pacific,5
+1533,Customer_533,USA,iPhone 15,512GB,Gold,5,1050,29-01-2025,Debit Card,Los Angeles,5250,4944.53,Above Average,Standard,Asia Pacific,4
+1534,Customer_534,Canada,iPhone 14,128GB,Black,5,1307,21-06-2025,PayPal,Toronto,6535,4944.53,Below Average,Same Day,Asia Pacific,5
+1535,Customer_535,Canada,iPhone 13,512GB,White,5,853,15-02-2025,PayPal,Montreal,4265,4944.53,Above Average,Same Day,Europe,3
+1536,Customer_536,UK,iPhone 15 Pro Max,256GB,Gold,1,1505,22-04-2025,PayPal,London,1505,4944.53,Above Average,Same Day,Asia Pacific,3
+1537,Customer_537,UK,iPhone 15,512GB,Purple,4,1896,12-04-2025,PayPal,London,7584,4944.53,Above Average,Same Day,North America,3
+1538,Customer_538,USA,iPhone 15 Pro Max,128GB,Purple,4,851,11-02-2025,Debit Card,Chicago,3404,4944.53,Below Average,Same Day,Europe,5
+1539,Customer_539,UK,iPhone 15,512GB,Purple,4,936,12-01-2025,PayPal,London,3744,4944.53,Above Average,Same Day,Europe,5
+1540,Customer_540,Canada,iPhone 13,512GB,Purple,3,1605,14-05-2025,Debit Card,Vancouver,4815,4944.53,Below Average,Express,North America,4
+1541,Customer_541,USA,iPhone 14,512GB,Gold,3,851,09-03-2025,Credit Card,Los Angeles,2553,4944.53,Below Average,Express,Europe,4
+1542,Customer_542,UK,iPhone 15 Pro Max,128GB,Gold,5,845,30-03-2025,Credit Card,Birmingham,4225,4944.53,Below Average,Express,North America,4
+1543,Customer_543,UK,iPhone 15,256GB,Black,2,1322,22-06-2025,PayPal,London,2644,4944.53,Below Average,Same Day,Asia Pacific,3
+1544,Customer_544,Canada,iPhone 15,256GB,Purple,5,1664,30-01-2025,Credit Card,Toronto,8320,4944.53,Above Average,Express,Europe,3
+1545,Customer_545,USA,iPhone 13,512GB,Gold,1,1746,05-03-2025,Debit Card,Los Angeles,1746,4944.53,Below Average,Express,Europe,5
+1546,Customer_546,USA,iPhone 12,256GB,Blue,1,1808,15-05-2025,Credit Card,Chicago,1808,4944.53,Below Average,Express,Asia Pacific,3
+1547,Customer_547,USA,iPhone 15,128GB,White,4,1729,20-06-2025,Debit Card,New York,6916,4944.53,Below Average,Standard,Asia Pacific,4
+1548,Customer_548,Canada,iPhone 15 Pro Max,512GB,White,5,1090,27-06-2025,PayPal,Toronto,5450,4944.53,Above Average,Same Day,Europe,3
+1549,Customer_549,Canada,iPhone 14,512GB,White,3,1358,14-06-2025,Credit Card,Toronto,4074,4944.53,Above Average,Express,Europe,5
+1550,Customer_550,USA,iPhone 15,256GB,White,3,1889,18-01-2025,Debit Card,Chicago,5667,4944.53,Above Average,Same Day,Asia Pacific,3
